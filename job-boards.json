@@ -21,4 +21,6 @@
   "Chicago Transit Authority": "https://chicagotransit.taleo.net/careersection/ex/jobsearch.ftl?lang=en&portal=101430233",
   "METRA": "https://cta.cadienttalent.com/index.jsp?SHOWRESULTS=true&APPLICATIONNAME=MetraKTMDReqExt&SEARCHOBJECT=Posting&SOURCE=featuredjobs&locale=en_US&EVENT=com.deploy.application.ca.plugin.PostingSearch.doSearch&SEQ=postingSearchResults&",
   "Regional Transit Authority": "https://css-rtachicago-prd.inforcloudsuite.com/hcm/CandidateSelfService/lm?dataarea=hcm&_frommenu=true&context.dataarea=hcm&context.session.key.JobBoard=EXTERNAL&context.session.key.HROrganization=1#",
+  "Metropolitan Water Reclamation District": "https://jobapscloud.com/MWRD/default.asp",
+  "Metropolitan Pier and Exposition Authority": "https://www.mpea.com/careers/"
 }
