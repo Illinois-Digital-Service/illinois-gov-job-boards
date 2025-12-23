@@ -22,5 +22,9 @@
   "METRA": "https://cta.cadienttalent.com/index.jsp?SHOWRESULTS=true&APPLICATIONNAME=MetraKTMDReqExt&SEARCHOBJECT=Posting&SOURCE=featuredjobs&locale=en_US&EVENT=com.deploy.application.ca.plugin.PostingSearch.doSearch&SEQ=postingSearchResults&",
   "Regional Transit Authority": "https://css-rtachicago-prd.inforcloudsuite.com/hcm/CandidateSelfService/lm?dataarea=hcm&_frommenu=true&context.dataarea=hcm&context.session.key.JobBoard=EXTERNAL&context.session.key.HROrganization=1#",
   "Metropolitan Water Reclamation District": "https://jobapscloud.com/MWRD/default.asp",
-  "Metropolitan Pier and Exposition Authority": "https://www.mpea.com/careers/"
+  "Metropolitan Pier and Exposition Authority": "https://www.mpea.com/careers/",
+  "University of Illinois System": "https://humanresources.illinois.edu/job-seekers/",
+  "City Colleges of Chicago": "https://cccconnect.referrals.selectminds.com/",
+  "Illinois Community College Board": "https://www.iccb.org/about-us/employment-opportunities/",
+  "State Universities Consortium System": "https://www.sucss.illinois.gov/Pages/Jobs/"
 }
