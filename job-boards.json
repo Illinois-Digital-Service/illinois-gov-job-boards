@@ -17,5 +17,8 @@
   "Cook County Health": "https://cookcountyil.taleo.net/careersection/200/jobsearch.ftl",
   "Cook County Sheriff": "https://cookcountyil.taleo.net/careersection/300/jobsearch.ftl?lang=en",
   "Cook County Board of Review": "https://cookcountyil.taleo.net/careersection/1000/jobsearch.ftl?lang=en",
-  "Forest Preserves of Cook County": "https://cookcountyil.taleo.net/careersection/400/jobsearch.ftl?lang=en"
+  "Forest Preserves of Cook County": "https://cookcountyil.taleo.net/careersection/400/jobsearch.ftl?lang=en",
+  "Chicago Transit Authority": "https://chicagotransit.taleo.net/careersection/ex/jobsearch.ftl?lang=en&portal=101430233",
+  "METRA": "https://cta.cadienttalent.com/index.jsp?SHOWRESULTS=true&APPLICATIONNAME=MetraKTMDReqExt&SEARCHOBJECT=Posting&SOURCE=featuredjobs&locale=en_US&EVENT=com.deploy.application.ca.plugin.PostingSearch.doSearch&SEQ=postingSearchResults&",
+  "Regional Transit Authority": "https://css-rtachicago-prd.inforcloudsuite.com/hcm/CandidateSelfService/lm?dataarea=hcm&_frommenu=true&context.dataarea=hcm&context.session.key.JobBoard=EXTERNAL&context.session.key.HROrganization=1#",
 }
